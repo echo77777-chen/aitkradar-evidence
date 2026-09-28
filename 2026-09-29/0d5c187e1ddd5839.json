@@ -3,7 +3,7 @@
  "source_id": "minimax-tokenplan",
  "url": "https://platform.minimaxi.com/docs/guides/pricing-token-plan",
  "http_status": 200,
- "fetched_at": "2026-09-29T01:07:20+08:00",
+ "fetched_at": "2026-09-29T01:09:09+08:00",
  "html_sha256": "0d5c187e1ddd583986d377fe438fdc02b2c6d5044f82a7cd28f8ff240178d1d2",
  "text_hash": "fc396f93a58b1ddf697163834627dc6f02ae7ded141daee20274cc58022f693b",
  "text_snippet": "Token Plan - MiniMax 开放平台文档中心 Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content 🎉 MiniMax H3 全新发布！新一代开放通用多模态视频模型。 查看文档 ➔ MiniMax 开放平台文档中心 home page 简体中文 Search... ⌘ K 文档 定价 控制台 搜索... Navigation 订阅套餐 Token Plan 开发指南 API Token Plan 定价 更新日志 产品定价 概览 API 价格 按量计费 语音资源包 视频资源包 订阅套餐 Token Plan Token Plan 团队版 在此页面 按月订阅 积分包 订阅套餐 Token Plan 复制页面 复制页面 MiniMax Token Plan订阅定价 复制页面 复制页面 Token Plan 订阅通过订阅 Key 提供套餐内月度用量额度，并开放可用资源。用量在控制台以用量进度条展示。支持的文本、图像、语音资源共享同一额度。 预付积分包价格见下方。团队版请参考 Token Plan 团队版 。 ​ 按月订阅 去订阅 Plus Max Ultra 价格 ¥49 /月 ¥119 /月 ¥469 /月 适合场景 轻量个人开发与日常试用 高频编程 Agent 与多模态调用 重度 Agent 工作流与更长时间使用 额度窗口 5 小时固定窗口和周窗口 5 小时固定窗口和周窗口 5 小时固定窗口和周窗口 Agent 用量 3-4 个 Agent 4-5 个 Agent 6-7 个 Agent 可用模型覆盖 MiniMax 全系模型（M3 / M2.7 / 图像 / 语音），少量特殊模型（MiniMax H3、音色设计、快速复刻等）暂不支持。 ​ 积分包 充值积分 通过积分支付的用量，会按对应资源的按量计费目录价折算为等值积分扣减。 购买价格 获得积分 ¥30 4,489 积分 ¥150 22,460 积分 ¥500 74,900 积分 有效期： 365 天 （自单笔购买之日起计算）。 积分与 Token Plan 覆盖相同资源。若同一用量同时可由 Token Plan 套餐内额度和积分覆盖，优先使用套餐内额度，超出部分由积分抵扣。 此页面对您有帮助吗？ 是 否 视频资源包 Token Plan 团队版 MiniMax 开放平台文档中心 home page discord x linkedin github 备案信息 沪公网安备31010402337149号 沪ICP备2023003282号-38 MiniMax官方客服 MiniMax官方客服 开放平台公众号 开放平台公众号 飞书交流群 飞书交流群",
