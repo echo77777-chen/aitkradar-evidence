@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "a8ef34e8f643024e",
+ "source_id": "manual-minimax-code-checkin",
+ "url": "https://agent.minimax.io/docs/code/account/usage",
+ "http_status": 200,
+ "fetched_at": "2026-10-09T19:44:48+08:00",
+ "html_sha256": "a8ef34e8f643024ede39662586ceef5db319cb1722b9ae0f92f32516bc8dc73e",
+ "text_hash": "4c72c143d234bc544cb7add584d0718344a35cc55023d5f1fee8b298503ad3e3",
+ "text_snippet": "M Plan 与积分 - MiniMax Agent 文档 Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content MiniMax Agent 文档 home page Search... ⌘ K 开始使用 Search... Navigation 模型与账户 M Plan 与积分 MiniMax Code CLI 更新日志 技术博客 开始使用 欢迎使用 下载与安装 创建第一个任务 核心工作流 Coding 与 Work 模式 工作区与项目上下文 任务与历史管理 对话协作 代码审查 权限与安全确认 桌面端能力 无限画布 内置浏览器 电脑操控 开发面板 界面外观 快捷键与快捷小窗 更新与反馈 目标功能 Agent 能力 Agent Team 自定义 Agent 自定义 Mini App MiniApp 介绍 H3 Max 视频生成 插件市场 插件上架 MCP 服务 记忆机制 自动化与远程 定时任务 远程控制 IM 连接 模型与账户 M Plan 与积分 MiniMax API 密钥 自定义模型 / BYOK Agent 配置指南 帮助 常见问题 问题反馈 On this page 订阅套餐 每日签到 可以查看什么 模型与账户 M Plan 与积分 查看 MiniMax Code 的订阅套餐、积分余额和用量额度。 在设置的用量页面中，你可以查看当前订阅套餐、积分余额、使用额度和发票入口。 ​ 订阅套餐 M Plan 是 MiniMax Code 的订阅套餐，承接并拓展了 Token Plan 的订阅能力。 套餐订阅价格与文本使用额度保持不变 部分档位可以使用包括 H3 在内的 MiniMax 全系列模型 在用量页面可以查看当前订阅状态、套餐有效期和剩余额度 档位、可用模型、计费方式和额度规则的完整说明，见 M Plan 概览 。 ​ 每日签到 打开 MiniMax Code 完成每日签到即可领取积分奖励。 每日签到可领取 400 积分 连续签到第 4 天、第 7 天，单日奖励加码至 1000 积分 完成一周签到，累计可领取 4000 积分 签到积分可累计使用，自到账之日起 30 天内有效 积分适用于 MiniMax Code 的各类任务场景，从办公、Coding、深度调研和专业数据库调用，到 PPT、文档、图片、音频及视频等多模态创作，都可以直接使用。 ​ 可以查看什么 当前订阅状态 套餐有效期 MiniMax 积分余额 用量额度 订阅、充值、发票和签到入口 具体档位、可用模型、计费和额度规则以产品内展示为准。 IM 连接 MiniMax API 密钥 discord x linkedin github",
+ "visibility": "public"
+}
