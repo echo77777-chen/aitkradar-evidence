@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "cffd5b2415105cc4",
+ "source_id": "manual-workbuddy-deepseek-compensation",
+ "url": "https://www.workbuddy.cn/profile/plans-usage",
+ "http_status": 200,
+ "fetched_at": "2026-10-16T20:03:35+08:00",
+ "html_sha256": "cffd5b2415105cc49ad739d9e6e47159d57233f9009c64b30f1c46591cd4a531",
+ "text_hash": "0ff511fee46a290c0940e9e3ab43a673b2c00b0b8531afb608152ed38ba45b90",
+ "text_snippet": "全部由 usercenter-inject-common-html 注入的 运行时 bootstrap 按 brand(hostname)×region(IS_INTERNATIONAL_EDITION) 决定； 不再有静态 SEO 出口（个人中心是登录后场景，静态注入拿不到 hostname 会写错品牌）。 此处 lang=\"zh-CN\" 仅为运行时覆盖前的安全默认（intl 由 bootstrap 改为 en-US）。 env（APP_EDITION/RUN_ENV/PRODUCT_FEATURES/IS_INTERNATIONAL_EDITION/__toCdnUrl + qcStat） 也由该插件注入到 最前。数据源见 src/head/tkd.ts。 --> 并设置根背景色，避免刷新时先闪一下深色底。 判定逻辑须与 src/utils/brand.ts getBrand() 保持一致。 -->",
+ "visibility": "public"
+}
