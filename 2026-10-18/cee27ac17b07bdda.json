@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "cee27ac17b07bdda",
+ "source_id": "manual-zhipu-welcome-2000w",
+ "url": "https://open.bigmodel.cn/",
+ "http_status": 200,
+ "fetched_at": "2026-10-18T19:26:24+08:00",
+ "html_sha256": "cee27ac17b07bddabb39bb56b1e9c5ed155f1d0b7ca73cf30c8c3411b145f863",
+ "text_hash": "5e48a507d22998aa8e82ac6972facd58bf69191c1101ce5f9f5256391abecd19",
+ "text_snippet": "智谱丨BigModel 平台",
+ "visibility": "public"
+}
