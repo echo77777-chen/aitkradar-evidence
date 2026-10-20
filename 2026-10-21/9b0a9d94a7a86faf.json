@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "9b0a9d94a7a86faf",
+ "source_id": "stepfun-stepplan",
+ "url": "https://platform.stepfun.com/docs/zh/step-plan/overview",
+ "http_status": 200,
+ "fetched_at": "2026-10-21T00:00:09+08:00",
+ "html_sha256": "9b0a9d94a7a86faf08318b3685b4d33668c201457890b637f79f361d3cc75c86",
+ "text_hash": "43c0d73b08c2d4ebde33c03dad1dc52d88ab8da53fedeefd28021b183958c856",
+ "text_snippet": "Step Plan 概述 - StepFun 开放平台文档中心 Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content StepFun 开放平台文档中心 home page 简体中文 Search... ⌘ K API Key 个人中心 搜索... Navigation 开始使用 Step Plan 概述 首页 模型 使用指南 开发指南 Step Code Step Plan API 参考 更新与公告 开始使用 Step Plan 概述 套餐与计费 快速开始 模型接入 推理模型接入 语音模型接入 相关开发工具 工具接入概述 在此页面 套餐与计费 支持的模型 接入与使用 开始使用 Step Plan 概述 复制页面 复制页面 复制页面 复制页面 Step Plan 是阶跃星辰开放平台提供的模型订阅服务，可通过 Step API Key 在 Claude Code、OpenClaw 等工具中调用模型。 ​ 套餐与计费 Step Plan 套餐（Token Plan）按月提供 Credit 额度，模型调用从套餐额度中扣减。套餐档位、价格、加油包及分时段扣减规则见 套餐与计费 。 历史套餐 Coding Plan 按请求次数计量，已停止新购。原套餐权益的保留条件及续订、升级规则见 Step Plan 套餐调整公告 。 ​ 支持的模型 Step Plan 当前支持以下模型，覆盖文本、推理、语音与智能路由等场景。各模型的能力说明与参数详见 模型列表 。 Step 5 Preview ：面向真实任务的新一代旗舰基模 Step 3.7 Flash ：高速多模态推理模型 Step 3.5 Flash ：面向智能体与代码任务的高速模型 Step 3.5 Flash 2603：针对高频 Agent 场景优化的版本 StepAudio 2.5 Realtime ：端到端实时语音对话模型 StepAudio 2.5 Chat ：端到端语音对话大模型 StepAudio 2.5 TTS ：新一代 Contextual TTS 模型 StepAudio 2.5 ASR ：新一代自动语音识别模型 Step Router V1 ：智能路由模型，按任务复杂度自动调度 ​ 接入与使用 订阅 Step Plan 后，使用 Step API Key 配置对应的接入地址。通过 Step Plan 地址发起的调用消耗套餐额度，按量付费 API 调用使用独立的账户额度。 API 协议 Base URL Chat Completions API（OpenAI 兼容） https://api.stepfun.com/step_plan/v1 Messages API（Anthropic 兼容） https://api.stepfun.com/step_plan 具体工具的配置方式见 快速开始 。直接通过 API 接入时，可参阅 推理模型接入 或 语音模型接入 。 此页面对您有帮助吗？ 是 否 套餐与计费 技术支持 This documentation is built and hosted on Mintlify, a developer documentation platform",
+ "visibility": "public"
+}
