@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "a3097f56447e7a53",
+ "source_id": "manual-doubao-daily-checkin",
+ "url": "https://www.doubao.com/pc/agent-explore",
+ "http_status": 200,
+ "fetched_at": "2026-10-25T14:30:10+08:00",
+ "html_sha256": "a3097f56447e7a535c7c3a08df88860568d6841877c82989c920e0b1a7371f5d",
+ "text_hash": "a3097f56447e7a535c7c3a08df88860568d6841877c82989c920e0b1a7371f5d",
+ "text_snippet": "豆包 该活动仅支持在豆包电脑版参与 额度越多，可免费用豆包工作越多 探索更多豆包用法，还能领更多福利 去下载 北京春田知韵科技有限公司 京ICP备2023020373号-1 京B2-20241987 京公网安备11010802045808 京网文〔2024〕4578-215号 活动规则 服务条款 隐私政策 联系我们",
+ "visibility": "public"
+}
