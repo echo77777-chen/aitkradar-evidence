@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "4560134f139c4dcf",
+ "source_id": "manual-minimax-mplan-half-month",
+ "url": "https://agent.minimax.cn/",
+ "http_status": 200,
+ "fetched_at": "2026-10-25T21:18:01+08:00",
+ "html_sha256": "4560134f139c4dcf9d3b711cceb0e5de91358da98ce3f3660c1953d2a8f58902",
+ "text_hash": "4560134f139c4dcf9d3b711cceb0e5de91358da98ce3f3660c1953d2a8f58902",
+ "text_snippet": "新建任务 插件·技能 连接手机 更多 MaxHermes MaxClaw 下载桌面端 查看套餐与价格 登录 MiniMax，让工作更简单 输入 / 使用 Skill M3.1-Flash （订阅限免） default 视频生成 金融 插件 调研报告 更多 下载 登录 New MiniMax Code 更新已来 本次更新带来更灵活的定时任务，后台任务进度随时可查。让常用流程自动完成，任务进展更清楚。 定时任务更灵活：定时任务可以接着在已有对话中执行，也新增了只执行一次的「不重复」选项。 后台任务看得见：后台运行的任务集中显示在任务概览中，进度随时可查、可随时停止，完成后会提醒你。 立即体验",
+ "visibility": "public"
+}
