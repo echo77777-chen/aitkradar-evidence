@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "674ad47669481068",
+ "source_id": "minimax-tokenplan",
+ "url": "https://platform.minimaxi.com/docs/guides/pricing-token-plan",
+ "http_status": 200,
+ "fetched_at": "2026-10-26T00:00:13+08:00",
+ "html_sha256": "674ad476694810684762e0883d6d657d4d91418aca70118d94dbb112b5790f1c",
+ "text_hash": "e03bc95cc1ac1ac753969be9667d56526bdad6bb9f52049c5c75bb6f1926de87",
+ "text_snippet": "M Plan 概览 - MiniMax 开放平台文档中心 Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content 🎉 新一代 MiniMax M3.1 Flash 全新发布！ 查看文档 ➔ MiniMax 开放平台文档中心 home page 简体中文 Search... ⌘ K 控制台 控制台 搜索... Navigation 快速了解 M Plan 概览 开发指南 API M Plan 定价 更新日志 快速了解 M Plan 概览 常见问题 订阅管理 用量说明 升级与取消 发票 使用指南 开通订阅 接入 AI 工具 配置 MCP MiniMax CLI 动态与公告 M Plan 月付首月五折 Token Plan 老用户 在此页面 可用模型 用量额度 支持的产品 快速了解 M Plan 概览 复制页面 复制页面 了解 M Plan 的档位、可用模型、用量与支持的产品。 复制页面 复制页面 M Plan 是专为个人打造的 AI 订阅，汇集 MiniMax 主流模型，涵盖文本、视频、图像与音频生成，让你在工作与爱好中都能得心应手。订阅分为 Go、Explore 和 Build 三个档位，可按使用强度选择。 ​ 可用模型 MiniMax-M3.1-Flash-Preview 已下线，旧名称的请求将由 MiniMax-M3.1-Flash 提供服务。 模型 Go Explore Build 文本模型 可用 M3.1 Flash 可用 M3.1 Flash 可用 M3.1 Flash 视频模型 不可用 可用 H3 可用 H3 其他多模态 图像与音频模型 图像与音频模型 图像与音频模型 ​ 用量额度 各档位用量的实际消耗会因模型、上下文长度和任务复杂度而不同，其中视频生成的消耗远高于文本，经常生成视频时额度会用得更快。你可以参考下表，按自己的实际使用习惯、任务场景来灵活选择档位。 档位 用量（相对 Go） 使用参考 Go - 入门使用，完成简单调研、轻量写作或小范围的代码修改。 Explore 3 倍 每天使用，日常辅助编程、写作与资料整理，处理多轮任务。 Build 12 倍 高频使用，处理长上下文、复杂的编程任务或大量多模态创作。 ​ 支持的产品 订阅 M Plan 后，你可以通过以下两种方式使用： MiniMax Code · 官方推荐 从本地项目开发到日常工作，使用 MiniMax 官方 Agent 应用，登录即可享有 M Plan 会员权益，无需另行订阅或配置 API Key。 其他 AI 工具： 获取 M Plan 的 API Key ，将模型接入 Claude Code、Codex、Cursor、OpenCode 等其他你习惯用的 AI 工具。 Claude Code Codex Cursor OpenCode Pi Hermes Agent OpenClaw 其他工具 此页面对您有帮助吗？ 是 否 常见问题 MiniMax 开放平台文档中心 home page discord x linkedin github 备案信息 沪公网安备31010402337149号 沪ICP备2023003282号-38 MiniMax官方客服 MiniMax官方客服 开放平台公众号 开放平台公众号 飞书交流群 飞书交流群",
+ "visibility": "public"
+}
