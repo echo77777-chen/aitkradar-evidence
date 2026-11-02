@@ -1,0 +1,11 @@
+{
+ "snapshot_id": "7bb415a94d68c019",
+ "source_id": "manual-trae-bao-free",
+ "url": "https://docs.trae.cn/ide_use-trae-bao-for-free-with-no-credits-required.md",
+ "http_status": 200,
+ "fetched_at": "2026-11-03T00:04:11+08:00",
+ "html_sha256": "7bb415a94d68c019e0ef5be2bdcdb883606fece111644c20b599a402014b4851",
+ "text_hash": "7bb415a94d68c019e0ef5be2bdcdb883606fece111644c20b599a402014b4851",
+ "text_snippet": "> ## Documentation Index > Fetch the complete documentation index at: https://docs.trae.cn/llms.txt > Use this file to discover all available pages before exploring further. 即日起至本周日（2026.11.08 23:59），登录 [TRAE 桌面端最新版](https://www.trae.cn/download?utm_source=content&utm_medium=doc_trae&utm_campaign=trae_bao)，使用个人助理 TRAE 宝进行问答、下达任务，**全部不消耗积分**。写功能、修 bug、审 PR、整理文档等，把开发任务交给 TRAE 宝，限时免费体验，即刻开启！ ***提示***：TRAE 宝暂不支持视频生成。 ## 获取 TRAE 宝 {#hn1EZhHXE} 1. 前往 [TRAE 下载中心](https://www.trae.cn/download?utm_source=content&utm_medium=doc_trae&utm_campaign=trae_bao)，下载并安装 TRAE 桌面端最新版。 2. 登录 TRAE 桌面端最新版，进入 Agent 窗口，然后点击左侧导航栏中的 **TRAE 宝** 或打开一个项目文件夹。 3. 直接说出你的需求。 ::::cols @col 50 ![Image=3024x1890](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/e218f35991da4420addd941d73ec9705~tplv-goo7wpa0wc-topic.webp) @col 50 ![Image=3024x1890](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/aa148428de9b470cafd63d9e82f320d3~tplv-goo7wpa0wc-topic.webp) :::: ## TRAE 宝能帮你做什么？ {#hyzQZQaNb} TRAE 近期上线的开发者个人助理 **TRAE 宝，长期跟随你的工作，跨项目理解你的方案与决策，还能统筹多个任务并行执行。** 你一句话，它多线开工，越用越懂你的开发工作。 * **做过的事，不用反复讲。** **全局助理**跨项目梳理历史任务、对话和产物，结合过去的方案、约束与偏好，为新任务准备好起点，省去反复介绍背景的时间。 * **多个任务，同时推进。** **项目助理**理解当前项目的上下文，拆解复杂需求，调度子任务并行执行，并根据依赖安排联调与验证。你也可以继续布置新任务，无需等前一个结束。 * **进度与成果，统一汇总。** 从后台推进到结果整理，助理把需要你判断的问题、待定事项和交付成果带回来。工作多线进行，你只需与一个助理沟通。 总言之，**你负责目标与关键决策，TRAE 宝负责组织和推进工作。** 说清楚你的需求，开发的事儿交给 TRAE 宝办！ ## 更多福利，敬请期待！ {#hkLqRQHqq} TRAE 宝限时免费一周只是开始——**明天开启更多福利，11 月狂欢不停！** 持续关注 TRAE，下一波惊喜马上揭晓。",
+ "visibility": "public"
+}
